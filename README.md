@@ -1,1 +1,2 @@
 # national-park-biodiversity
+This project is about analyzing two csv files - species_info.csv and observations.csv that contain information about species at national parks, their conservation status and sightings of these species. This information is from the National Parks Service and the aim is to investigate possible themes or patterns in the data. To do this I will use different graphing capabilities from the matplotlib and seaborn libraries and the pandas package for data analysis.
